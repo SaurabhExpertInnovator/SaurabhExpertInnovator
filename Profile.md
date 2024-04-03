@@ -1,0 +1,5 @@
+- 👋 Hello, I’m Saurabh Prajapati, a CSE(AI) student with a passion for technology and Software Development.
+- 👀 I enjoy working on a variety of projects, from web development to artificial intelligence applications.
+- 💞️ I’m always open to collaboration and contributing to open souce projects. Feel free to reach out if you have any interesting projects or opportunities for collaboration.
+- I'm excited to continue growing and contributing to the tech community.
+- 📫 You can connect with me via email at saurabhcsecsvtu@gmail.com OR Find me on instagram at spcool786.
